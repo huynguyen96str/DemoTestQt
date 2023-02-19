@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/translate">
+        <file>Translator/VietNam.qm</file>
+    </qresource>
+</RCC>
